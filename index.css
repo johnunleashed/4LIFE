@@ -83,15 +83,11 @@
 
   .u-section-1 .u-image-1 {
     object-position: 28.79% 0%;
-    height: 411px;
   }
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    min-height: 399px;
-    margin-top: -41px;
-    margin-left: auto;
-    margin-bottom: 24px;
+    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-1 .u-text-1 {

@@ -44572,7 +44572,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 84px;
   height: 44px;
-  margin: 22px auto 0 24px;
+  margin: 22px auto 0 19px;
 }
 
 .u-header .u-logo-image-1 {
@@ -44586,7 +44586,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-1 {
   font-size: 1.25rem;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -44601,12 +44600,9 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 0;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    margin-left: 24px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -42px;
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
+    font-weight: 400;
   }
 
   .u-header .u-icon-1 {
