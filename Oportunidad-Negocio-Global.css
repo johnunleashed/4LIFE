@@ -306,7 +306,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: -342px auto 60px 90px;
+  margin: -342px auto 60px 94px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -446,8 +446,8 @@
 }
 
 .u-section-4 .u-list-1 {
-  margin-top: 39px;
-  margin-bottom: 38px;
+  margin-top: 38px;
+  margin-bottom: 40px;
   grid-template-rows: repeat(1, auto);
 }
 
