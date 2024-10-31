@@ -45,19 +45,29 @@
 }</script>
     <meta name="theme-color" content="#4867d6">
     <meta property="og:type" content="website">
-  <script src="https://sleekflow.io/whatsapp-button.js" async="" onload="whatsappButton({
-    buttonName:'',
-    buttonIconSize: '30',
-    brandImageUrl:'https://4lifenegocios.com/favicon.ico',
-    brandName:'4Life Atención al Cliente',
-    brandSubtitleText:'Por lo general respondemos en menos de 30 min.',
-    buttonSize:'medium',
-    buttonPosition:'right',
-    callToAction:'Iniciar chat',
-    phoneNumber:'573212257625',
-    welcomeMessage:'Hola 👋Bienvenido a la compañía del sistema Inmunitario.',
-    prefillMessage:'¡Hola, quiero saber más sobre los factores de Transferencia!',
-    })">
+  <script>
+    var url = 'https://whatsapp.socialintents.com/api/chat/siwhatsapp.1.0.js';
+    var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = url;
+    var chatSettings = {
+        "backgroundColor": "#25d366",
+        "textColor": "#000000",
+        "position": "right",
+        "marginBottom": "25",
+        "marginLeft": "0",
+        "marginRight": "25",
+        "logo": "https://th.bing.com/th/id/OIP.O94FW6Gtf3fzD3f_DYAHGwHaDw?rs=1&pid=ImgDetMain",
+        "ctaText": "¿Tienes dudas? ",
+        "chatIcon": "1",
+        "chatIconImageUrl": "",
+        "showPopup": false,
+        "welcomeText": "¡Cuéntame tu inquietud!",
+        "messageText": "Hola me gustaría mas información de los factores de transferencia.",
+        "phoneNumber": "573212257625"
+    };
+    s.onload = function() {
+        addWidget(chatSettings);
+    };
+    var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);
 </script><meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="../" data-include-products="false" class="u-body u-xl-mode" data-lang="es"><header class="u-clearfix u-custom-color-1 u-header u-sticky u-header" id="sec-ae8a"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-align-left u-image u-logo u-opacity u-opacity-80 u-image-1" data-image-width="450" data-image-height="450">
