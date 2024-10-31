@@ -1,5 +1,4 @@
  .u-section-1 {
-  background-image: url("images/apalancamientofinanciero-principal.jpg");
   background-position: 50% 0%;
   min-height: 793px;
 }
@@ -53,6 +52,11 @@
     margin-top: 56px;
     margin-right: calc(((100% - 720px) / 2));
     margin-bottom: 35px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -115,7 +119,6 @@
   width: 465px;
   height: 465px;
   object-position: 50% 50%;
-  background-image: url("images/rrr-min.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -400px;
   --animation-custom_in-translate_y: 0px;
@@ -682,24 +685,48 @@
     grid-auto-columns: calc(50% - 13.5px);
   }
 
+  .u-section-4 .u-container-layout-1 {
+    padding: 0;
+  }
+
   .u-section-4 .u-image-1 {
     height: 292px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding: 0;
   }
 
   .u-section-4 .u-image-2 {
     height: 292px;
   }
 
+  .u-section-4 .u-container-layout-3 {
+    padding: 0;
+  }
+
   .u-section-4 .u-image-3 {
     height: 292px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding: 0;
   }
 
   .u-section-4 .u-image-4 {
     height: 292px;
   }
 
+  .u-section-4 .u-container-layout-5 {
+    padding: 0;
+  }
+
   .u-section-4 .u-image-5 {
     height: 292px;
+  }
+
+  .u-section-4 .u-container-layout-6 {
+    padding: 0;
   }
 
   .u-section-4 .u-image-6 {

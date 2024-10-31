@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/apple-touch-icon.png');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)) 50% 50%;
   background-position: 50% 50%;
 }
 
@@ -70,6 +70,10 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
   }
 }
 
@@ -194,7 +198,7 @@
     margin-right: 0;
   }
 } .u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/Presentaci_n_Transfer_Factor_Plus_1000x1000.webp');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)) 50% 50%;
   background-position: 50% 50%;
 }
 
@@ -507,6 +511,12 @@
     grid-auto-columns: calc(100% - 0px);
   }
 
+  .u-section-6 .u-container-layout-1 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-6 .u-group-1 {
     margin-top: -1px;
   }
@@ -518,6 +528,12 @@
 
   .u-section-6 .u-image-1 {
     margin-top: 45px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .u-section-6 .u-group-2 {
@@ -1241,7 +1257,6 @@
   margin: -46px auto 45px;
   padding: 10px 18px 10px 16px;
 } .u-section-10 {
-  background-image: url("images/Presentaci_n_RioVida_Jugo_1000x1000.jpg");
   background-position: 50% 50%;
 }
 
@@ -1340,9 +1355,17 @@
     grid-auto-columns: calc(100% + 0px);
   }
 
+  .u-section-10 .u-container-layout-1 {
+    padding: 0;
+  }
+
   .u-section-10 .u-text-2 {
     margin-left: 24px;
     margin-right: 24px;
+  }
+
+  .u-section-10 .u-container-layout-2 {
+    padding: 0;
   }
 
   .u-section-10 .u-text-4 {

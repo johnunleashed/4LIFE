@@ -59,6 +59,11 @@
   .u-section-1 .u-group-1 {
     margin-left: calc(((100% - 720px) / 2));
   }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 @media (max-width: 767px) {
@@ -343,7 +348,7 @@
     padding: 30px;
   }
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('../images/Presentaci_n_Transfer_Factor_Plus_1000x1000.webp');
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)) 50% 50%;
   background-position: 50% 50%;
 }
 
@@ -866,6 +871,12 @@
     grid-auto-columns: calc(100% - 0px);
   }
 
+  .u-section-4 .u-container-layout-1 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-4 .u-group-1 {
     margin-top: -1px;
   }
@@ -877,6 +888,12 @@
 
   .u-section-4 .u-image-1 {
     margin-top: 45px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .u-section-4 .u-group-2 {
@@ -892,6 +909,12 @@
     margin-top: 45px;
   }
 
+  .u-section-4 .u-container-layout-5 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-4 .u-group-3 {
     margin-top: -1px;
   }
@@ -903,6 +926,12 @@
 
   .u-section-4 .u-image-3 {
     margin-top: 45px;
+  }
+
+  .u-section-4 .u-container-layout-7 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .u-section-4 .u-group-4 {
@@ -918,6 +947,12 @@
     margin-top: 45px;
   }
 
+  .u-section-4 .u-container-layout-9 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-4 .u-group-5 {
     margin-top: -1px;
   }
@@ -929,6 +964,12 @@
 
   .u-section-4 .u-image-5 {
     margin-top: 45px;
+  }
+
+  .u-section-4 .u-container-layout-11 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .u-section-4 .u-group-6 {
@@ -1606,7 +1647,6 @@
     font-size: 1.875rem;
   }
 } .u-section-6 {
-  background-image: url("../images/Presentaci_n_RioVida_Jugo_1000x1000.jpg");
   background-position: 50% 50%;
 }
 
@@ -1714,6 +1754,10 @@
     grid-auto-columns: calc(100% + 0px);
   }
 
+  .u-section-6 .u-container-layout-1 {
+    padding: 0;
+  }
+
   .u-section-6 .u-text-2 {
     margin-right: 0;
     margin-left: 0;
@@ -1722,6 +1766,10 @@
   .u-section-6 .u-text-3 {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding: 0;
   }
 
   .u-section-6 .u-text-4 {
