@@ -208,7 +208,7 @@
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 29px 0 30px;
+  padding: 29px 0;
 }
 
 .u-section-2 .u-text-1 {
@@ -229,7 +229,7 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1.25rem;
-  margin: 20px 29px 0;
+  margin: 20px auto 0 29px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -258,7 +258,7 @@
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 29px 0 30px;
+  padding: 29px 0;
 }
 
 .u-section-2 .u-text-3 {
@@ -280,7 +280,7 @@
 
 .u-section-2 .u-text-4 {
   font-size: 1.25rem;
-  margin: 20px 29px 0;
+  margin: 20px auto 0 29px;
 }
 
 .u-section-2 .u-btn-3 {
@@ -309,7 +309,7 @@
 }
 
 .u-section-2 .u-container-layout-3 {
-  padding: 29px 0 30px;
+  padding: 29px 0;
 }
 
 .u-section-2 .u-text-5 {
@@ -332,7 +332,7 @@
 
 .u-section-2 .u-text-6 {
   font-size: 1.25rem;
-  margin: 20px 29px 0;
+  margin: 20px auto 0 29px;
 }
 
 .u-section-2 .u-btn-5 {
@@ -588,7 +588,6 @@
   }
 
   .u-section-2 .u-container-layout-1 {
-    padding-bottom: 29px;
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -625,7 +624,6 @@
   }
 
   .u-section-2 .u-container-layout-2 {
-    padding-bottom: 29px;
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -662,7 +660,6 @@
   }
 
   .u-section-2 .u-container-layout-3 {
-    padding-bottom: 29px;
     padding-left: 20px;
     padding-right: 20px;
   }
